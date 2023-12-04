@@ -1,0 +1,8 @@
+=== Struk Pembayaran ===
+Tanggal: 2023-12-04_19-14-38
+=======================
+5cm - Jumlah: 2 - Harga: 30000.0
+=======================
+Total Harga: 60000.0
+Uang Pembayaran: 10000.0
+Kembalian: -50000.0
