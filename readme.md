@@ -19,7 +19,7 @@ Blue Book Store adalah program sederhana untuk mengelola pemesanan buku dan stok
 3. Ikuti instruksi yang ditampilkan untuk setiap menu.
 
 ## Lisensi
-Diberikan di bawah [MIT License](https://opensource.org/licenses/MIT). Lihat `LICENSE` untuk informasi lebih lanjut.
+Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ## Catatan
 - Program menyimpan struk pembayaran dalam file teks dengan format `Struk_Tanggal-Waktu.txt`.
